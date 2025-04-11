@@ -1,1 +1,2 @@
-# lemao1tec-messicard
+# card
+abra no pc
